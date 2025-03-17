@@ -1,5 +1,5 @@
 <h2 align="center">About me</h2>
-Hi! I'm a software engineer with over 13 years of experience, primarily focused on backend development and building highly scalable applications that handle large volumes of data across various sectors, such as finance, real estate, and industrial monitoring. I’m passionate about working with system integrations and the Internet of Things (IoT), where I’ve developed platforms and gateways responsible for processing millions of data points daily.  
+Hi! I'm a brazilian software engineer with over 13 years of experience, primarily focused on backend development and building highly scalable applications that handle large volumes of data across various sectors, such as finance, real estate, and industrial monitoring. I’m passionate about working with system integrations and the Internet of Things (IoT), where I’ve developed platforms and gateways responsible for processing millions of data points daily.  
 
 I'm also a homelab, self-hosting, and DIY enthusiast, as it not only gives me full control over my data but also helps me sharpen and expand my technical skills.
 
@@ -60,6 +60,29 @@ If you'd like to know more about my professional journey, feel free to check out
 ![](https://img.shields.io/badge/rabbitmq-404040?style=for-the-badge&logo=rabbitmq)
 ![](https://img.shields.io/badge/mqtt-404040?style=for-the-badge&logo=mqtt&logoColor=6B086B)
 ![](https://img.shields.io/badge/apache%20kafka-404040?style=for-the-badge&logo=apache-kafka)
+
+### Cloud Services
+
+![](https://img.shields.io/badge/aws-ec2-FF9900?style=for-the-badge&logo=amazonec2)
+![](https://img.shields.io/badge/aws-ecs-FF9900?style=for-the-badge&logo=amazonecs)
+![](https://img.shields.io/badge/aws-eks-FF9900?style=for-the-badge&logo=amazoneks)
+![](https://img.shields.io/badge/aws-lambda-FF9900?style=for-the-badge&logo=awslambda)
+![](https://img.shields.io/badge/aws-rds-527FFF?style=for-the-badge&logo=amazonrds)
+![](https://img.shields.io/badge/aws-s3-569A31?style=for-the-badge&logo=amazons3)
+![](https://img.shields.io/badge/aws-api%20gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway)
+![](https://img.shields.io/badge/aws-sqs-FF4F8B?style=for-the-badge&logo=amazonsqs)
+![](https://img.shields.io/badge/aws-sns-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=FF4F8B)
+![](https://img.shields.io/badge/aws-cloud%20watch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch)
+![](https://img.shields.io/badge/aws-route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53)
+![](https://img.shields.io/badge/aws-iot-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=569A31)
+![](https://img.shields.io/badge/aws-secret%20manager-DD344C?style=for-the-badge&logo=awssecretsmanager)
+![](https://img.shields.io/badge/aws-iam-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=DD344C)
+
+![](https://img.shields.io/badge/gcp-big%20query-669DF6?style=for-the-badge&logo=googlebigquery)
+![](https://img.shields.io/badge/gcp-object%20storage-AECBFA?style=for-the-badge&logo=googlecloudstorage)
+
+![](https://img.shields.io/badge/cloudflare-dns-F38020?style=for-the-badge&logo=cloudflare)
+![](https://img.shields.io/badge/cloudflare-r2-F38020?style=for-the-badge&logo=cloudflare)
 
 ### Version Control
 
