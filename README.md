@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1>
+<h1 align="center">About me 🙋🏽</h1>
 Hi! I'm a brazilian software engineer with over 13 years of experience, primarily focused on backend development and building highly scalable applications that handle large volumes of data across various sectors, such as finance, real estate, and industrial monitoring. I’m passionate about working with system integrations and the Internet of Things (IoT), where I’ve developed platforms and gateways responsible for processing millions of data points daily.  
 
 I'm also a homelab, self-hosting, and DIY enthusiast, as it not only gives me full control over my data but also helps me sharpen and expand my technical skills.
@@ -10,7 +10,7 @@ If you'd like to know more about my professional journey, feel free to check out
 I speak 🇧🇷 Brazilian Portuguese and 🇬🇧 English.
 
 
-<h1 align="center">Skills</h1>
+<h1 align="center">Skills 🧑🏽‍💻</h1>
 
 I have been developing my technical knowledge since I was 12 years old. During this time, I have gained a lot of professional experience and faced challenges that pushed me to study and grow in the following areas:
 
