@@ -61,6 +61,13 @@ If you'd like to know more about my professional journey, feel free to check out
 ![](https://img.shields.io/badge/mqtt-404040?style=for-the-badge&logo=mqtt&logoColor=6B086B)
 ![](https://img.shields.io/badge/apache%20kafka-404040?style=for-the-badge&logo=apache-kafka)
 
+### Containers
+
+![](https://img.shields.io/badge/kubernetes-404040?style=for-the-badge&logo=kubernetes)
+![](https://img.shields.io/badge/podman-404040?style=for-the-badge&logo=podman&logoColor=8C2FA2)
+![](https://img.shields.io/badge/docker-404040?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/portainer-404040?style=for-the-badge&logo=portainer)
+
 ### Cloud Services
 
 ![](https://img.shields.io/badge/aws-ec2-FF9900?style=for-the-badge&logo=amazonec2)
@@ -84,19 +91,21 @@ If you'd like to know more about my professional journey, feel free to check out
 ![](https://img.shields.io/badge/cloudflare-dns-F38020?style=for-the-badge&logo=cloudflare)
 ![](https://img.shields.io/badge/cloudflare-r2-F38020?style=for-the-badge&logo=cloudflare)
 
+### Observability
+
+![](https://img.shields.io/badge/datadog-404040?style=for-the-badge&logo=datadog)
+![](https://img.shields.io/badge/new%20relic-404040?style=for-the-badge&logo=newrelic)
+
+![](https://img.shields.io/badge/prometheus-404040?style=for-the-badge&logo=prometheus)
+![](https://img.shields.io/badge/grafana-404040?style=for-the-badge&logo=grafana)
+![](https://img.shields.io/badge/open%20telemetry-404040?style=for-the-badge&logo=opentelemetry)
+
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-404040?style=for-the-badge&logo=github)
 ![GitHub](https://img.shields.io/badge/bitbucket-404040?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
 ![GitLab](https://img.shields.io/badge/gitlab-404040?style=for-the-badge&logo=gitlab)
-
-### Containers
-
-![](https://img.shields.io/badge/kubernetes-404040?style=for-the-badge&logo=kubernetes)
-![](https://img.shields.io/badge/podman-404040?style=for-the-badge&logo=podman&logoColor=8C2FA2)
-![](https://img.shields.io/badge/docker-404040?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/portainer-404040?style=for-the-badge&logo=portainer)
 
 ### IDEs
 
