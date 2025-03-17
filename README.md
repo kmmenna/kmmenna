@@ -1,11 +1,18 @@
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h1>
 Hi! I'm a brazilian software engineer with over 13 years of experience, primarily focused on backend development and building highly scalable applications that handle large volumes of data across various sectors, such as finance, real estate, and industrial monitoring. I’m passionate about working with system integrations and the Internet of Things (IoT), where I’ve developed platforms and gateways responsible for processing millions of data points daily.  
 
 I'm also a homelab, self-hosting, and DIY enthusiast, as it not only gives me full control over my data but also helps me sharpen and expand my technical skills.
 
 If you'd like to know more about my professional journey, feel free to check out my [LinkedIn](https://www.linkedin.com/in/kaoemenna) profile!
 
-<h2 align="center">Skills</h2>
+### Communication
+
+I speak 🇧🇷 Brazilian Portuguese and 🇬🇧 English.
+
+
+<h1 align="center">Skills</h1>
+
+I have been developing my technical knowledge since I was 12 years old. During this time, I have gained a lot of professional experience and faced challenges that pushed me to study and grow in the following areas:
 
 ### Backend
 
@@ -43,6 +50,14 @@ If you'd like to know more about my professional journey, feel free to check out
 ![](https://img.shields.io/badge/jpa-404040?style=for-the-badge&logo=)
 ![](https://img.shields.io/badge/gradle-404040?style=for-the-badge&logo=gradle&logoColor=32B2C2)
 ![](https://img.shields.io/badge/junit-404040?style=for-the-badge&logo=junit5)
+
+#### and
+
+![](https://img.shields.io/badge/restful-404040?style=for-the-badge&logo=json&logoColor=65C5C5)
+![](https://img.shields.io/badge/grpc-404040?style=for-the-badge&logo=trpc&logoColor=65C5C5)
+![](https://img.shields.io/badge/graphql-404040?style=for-the-badge&logo=graphql&logoColor=E10098)
+![](https://img.shields.io/badge/webrtc-404040?style=for-the-badge&logo=webrtc)
+![](https://img.shields.io/badge/websockets-404040?style=for-the-badge&logo=socketdotio)
 
 ### Databases
 
@@ -120,3 +135,13 @@ If you'd like to know more about my professional journey, feel free to check out
 ![](https://img.shields.io/badge/ubuntu-404040?style=for-the-badge&logo=ubuntu)
 ![](https://img.shields.io/badge/ubuntu%20server-404040?style=for-the-badge&logo=ubuntu)
 ![](https://img.shields.io/badge/yocto%20project-404040?style=for-the-badge&logo=linux)
+
+### Provisioning and IaC
+
+![](https://img.shields.io/badge/proxmox-404040?style=for-the-badge&logo=proxmox)
+![](https://img.shields.io/badge/packer-404040?style=for-the-badge&logo=packer)
+![](https://img.shields.io/badge/terraform-404040?style=for-the-badge&logo=terraform)
+![](https://img.shields.io/badge/ansible-404040?style=for-the-badge&logo=ansible)
+![](https://img.shields.io/badge/helm-404040?style=for-the-badge&logo=helm)
+
+### And a bunch of other things...
